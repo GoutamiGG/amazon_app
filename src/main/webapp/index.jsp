@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello Nishant..How was your day?</h2>
+<h1>Hello Nishant</h1>
+<h2>how was your day..?</h2>
 </body>
 </html>
